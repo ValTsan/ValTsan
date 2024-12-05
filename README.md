@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Valerie.
-- 👀 I’m interested in Networking.
+- 👀 I’m interested in networking and learning.
 - 🌱 I’m currently learning JavaScript and React.
 - 📫 How to reach me @ https://www.linkedin.com/in/valerietsan/
 - 😄 Pronouns: she/her
