@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valerie.
 - 👀 I’m interested in networking and learning.
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 I’m currently building my portfolio.
 - 📫 How to reach me @ https://www.linkedin.com/in/valerietsan/
 - 😄 Pronouns: she/her
 
